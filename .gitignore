@@ -1,0 +1,12 @@
+/_*
+/*.sln.docstates
+/*.suo
+/*.suo.saved
+/*ReSharper*
+/bin/
+/lib/
+
+bin/
+obj/
+*.user
+*.dotCover
